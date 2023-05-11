@@ -1,9 +1,9 @@
 import React from 'react';
-import Event   from './Event'
+import Eventhandler   from './eventhandler'
 function App() {
   return (
     <div>
-      <Event/>
+      <Eventhandler/>
     </div>
   );
 }
